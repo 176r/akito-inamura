@@ -1,5 +1,5 @@
 ---
-title: UI Kit
+title: Profile
 subtitle: Vanilla styleguide.
 seo:
   title: UI Kit
